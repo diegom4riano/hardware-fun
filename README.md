@@ -87,7 +87,7 @@ To read a tag, issue the following command:
 
     nfc-pool
 
-And bring the tag closer to the PN532 module just for a moment. If everything is right than the following information will appear:
+And bring the tag closer to the PN532 module just for a moment. If everything is right then the following information will appear:
 
     nfc-poll uses libnfc 1.7.1
     NFC reader: pn532_uart:/dev/ttyUSB0 opened
