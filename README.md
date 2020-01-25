@@ -85,7 +85,7 @@ Testing the connection:
 
 To read a tag, issue the following command:
 
-    nfc-pool
+    nfc-poll
 
 And bring the tag closer to the PN532 module just for a moment. If everything is right then the following information will appear:
 
